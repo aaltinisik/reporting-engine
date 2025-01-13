@@ -22,17 +22,18 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[bi_sql_editor](bi_sql_editor/) | 12.0.1.3.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | BI Views builder, based on Materialized or Normal SQL Views
+[bi_sql_editor](bi_sql_editor/) | 12.0.1.3.1 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | BI Views builder, based on Materialized or Normal SQL Views
 [bi_sql_editor_aggregate](bi_sql_editor_aggregate/) | 12.0.1.1.0 |  | BI SQL Editor Aggregation
 [bi_view_editor](bi_view_editor/) | 12.0.1.1.1 |  | Graphical BI views builder for Odoo
 [kpi](kpi/) | 12.0.1.0.1 |  | Key Performance Indicator
 [kpi_dashboard](kpi_dashboard/) | 12.0.1.3.0 | [![etobella](https://github.com/etobella.png?size=30px)](https://github.com/etobella) | Create Dashboards using kpis
 [kpi_dashboard_altair](kpi_dashboard_altair/) | 12.0.1.0.3 | [![etobella](https://github.com/etobella.png?size=30px)](https://github.com/etobella) | Create dashboards using altair
 [kpi_dashboard_bokeh](kpi_dashboard_bokeh/) | 12.0.1.0.1 |  | Create dashboards using bokeh
-[report_async](report_async/) | 12.0.1.1.0 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Central place to run reports live or async
+[report_async](report_async/) | 12.0.2.0.0 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Central place to run reports live or async
 [report_context](report_context/) | 12.0.1.0.0 |  | Adding context to reports
 [report_csv](report_csv/) | 12.0.1.0.1 |  | Base module to create csv report
 [report_label](report_label/) | 12.0.1.0.0 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Print configurable self-adhesive labels reports
+[report_pdf_zip_download](report_pdf_zip_download/) | 12.0.1.0.0 |  | Report PDF ZIP Download
 [report_py3o](report_py3o/) | 12.0.2.1.2 |  | Reporting engine based on Libreoffice (ODT -> ODT, ODT -> PDF, ODT -> DOC, ODT -> DOCX, ODS -> ODS, etc.)
 [report_py3o_fusion_server](report_py3o_fusion_server/) | 12.0.1.0.2 |  | Let the fusion server handle format conversion.
 [report_qr](report_qr/) | 12.0.1.1.0 |  | Web QR Manager
